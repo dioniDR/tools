@@ -1,0 +1,29 @@
+{
+    "exclude": [
+        "node_modules",
+        "vendor",
+        "venv",
+        "env",
+        "__pycache__",
+        ".git",
+        ".svn",
+        ".idea",
+        ".vscode",
+        "dist",
+        "build",
+        "coverage",
+        ".next",
+        ".nuxt",
+        "bower_components",
+        ".npm",
+        ".cache",
+        ".pytest_cache",
+        ".env",
+        "*.log",
+        "*.tmp",
+        ".DS_Store",
+        "Thumbs.db",
+        "package-lock.json",
+        "yarn.lock"
+    ]
+}
